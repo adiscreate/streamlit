@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 
 # gambar diambil dari favicon.io/emoji-favicons/
-st.set_page_config(page_title="Uber Pickups in NYC",page_icon="alien.svgs")
+st.set_page_config(page_title="Uber Pickups in NYC",page_icon="car.svg")
 
 st.title("Uber Pickups in NYC")
 st.divider()
